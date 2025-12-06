@@ -9,7 +9,7 @@ Follow-up time computation
 
 Unimodal model training
 
-Model evaluation (AUC / C-index / DeLong test)
+Model evaluation (AUC / DeLong test)
 
 End-to-end demonstration with synthetic data
 
