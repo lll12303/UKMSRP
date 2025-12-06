@@ -1,0 +1,17 @@
+# Input data
+data_file: "data/omics_proteomics_clean.csv"
+
+# Required columns
+time_column: "time"
+status_column: "status"
+
+# Columns not used in Cox regression
+# Remove unwanted columns before fitting
+
+# Engine settings
+n_jobs: 8
+chunk_size: 100
+
+# Outputs
+output_file_full: "output/cox_results_full.csv"
+output_file_significant: "output/cox_results_significant.csv"
