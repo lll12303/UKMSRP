@@ -1,4 +1,4 @@
-# UKMSRP: Multimodal Long-term Stroke Risk Prediction
+# UKMSRP: Multimodal Stroke Risk Prediction
 
 This repository contains the full implementation of the UK Multimodal Stroke Risk Prediction (UKMSRP) project.
 It provides a complete and modular pipeline for:
